@@ -5,12 +5,12 @@ error_reporting(E_ALL);
 session_start();
 function Conectarse() 
 {
-   if (!($link=mysqli_connect("tb-be04-linweb087.srv.teamblue-ops.net:3306","solofa_javiercm","kojikabuto2014"))) 
+   if (!($link=mysqli_connect("zoia-n8n_gestion_cesta","my_user_basket","uzVz7VXy2W-4GK*"))) 
    { 
       echo "Error conectando a la base de datos."; 
 	  exit(); 
    } 
-   if (!mysqli_select_db($link,"solofa_solofaltastu2014")) 
+   if (!mysqli_select_db($link,"zoia-n8n")) 
    { 
       echo "Error seleccionando la base de datos."; 
       exit(); 
