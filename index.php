@@ -282,7 +282,7 @@ button#ir_compra {
     	<table id="dtOrderExample" class="table table-striped table-bordered table-sm sortable" cellspacing="0">
         	<thead>
     			<tr>
-      				<th class="th-sm" style="width:45vw !important">NOMBRE2</th>
+      				<th class="th-sm" style="width:45vw !important">NOMBRE</th>
                 	<th class="th-sm" style="width:45vw !important">CATEGORIA</th>
                     <th class="th-sm" style="display:none !important">OCULTO</th>
                     <th class="th-sm" style="width:10vw !important">CANT.</th>
